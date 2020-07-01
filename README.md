@@ -1,6 +1,6 @@
 ## Flutter Learning Material & Useful Refs
 
-- Sites:
+- Sites / Repos:
   - [Add clear button in text input](https://www.flutterclutter.dev/flutter/tutorials/text-field-with-clear-button/2020/104/)
   - [Async/Await guide](https://ptyagicodecamp.github.io/futures-asynchronous-programming-with-dart.html)
   - [Cut a hole in your layout](https://www.flutterclutter.dev/flutter/tutorials/how-to-cut-a-hole-in-an-overlay/2020/510/) | Useful to show app functionalities on first use
@@ -11,6 +11,7 @@
   - [Latest Flutter Days guides](https://events.withgoogle.com/flutter-day/codelabs/#content)
   - [mkiisoft CodePen profile](https://codepen.io/mkiisoft) | Nicely built projects to learn from
   - [Platform detection example](https://www.flutterclutter.dev/flutter/tutorials/how-to-detect-what-platform-a-flutter-app-is-running-on/2020/127)
+  - [Public Free APIs](https://github.com/public-apis/public-apis) | Github repo w/ tons of APIs divided by category (Animals, food, etc.)
   - [QuickType](https://app.quicktype.io) | JSON to Class generator
   - Rive (Animation creator for Flutter):
       - [Website](https://rive.app/)
