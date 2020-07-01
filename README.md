@@ -1,0 +1,43 @@
+## Flutter Learning Material & Useful Refs
+
+- Sites:
+  - [Add clear button in text input](https://www.flutterclutter.dev/flutter/tutorials/text-field-with-clear-button/2020/104/)
+  - [Async/Await guide](https://ptyagicodecamp.github.io/futures-asynchronous-programming-with-dart.html)
+  - [Cut a hole in your layout](https://www.flutterclutter.dev/flutter/tutorials/how-to-cut-a-hole-in-an-overlay/2020/510/) | Useful to show app functionalities on first use
+  - [FlutterIcon](http://fluttericon.com) | Custom icons generator
+  - [Format date like social network](https://www.flutterclutter.dev/flutter/tutorials/date-format-dynamic-string-depending-on-how-long-ago/2020/229/) | Format date like "Few minutes ago", "Yesterday", etc.
+  - [Free web gradients](https://outlane.co/now/freebie-web-gradients/) 
+  - [I18n in Flutter](https://www.flutterclutter.dev/flutter/tutorials/internationalization-i18n-in-flutter-an-easy-and-quick-approach/2020/213/)
+  - [Latest Flutter Days guides](https://events.withgoogle.com/flutter-day/codelabs/#content)
+  - [mkiisoft CodePen profile](https://codepen.io/mkiisoft) | Nicely built projects to learn from
+  - [Platform detection example](https://www.flutterclutter.dev/flutter/tutorials/how-to-detect-what-platform-a-flutter-app-is-running-on/2020/127)
+  - [QuickType](https://app.quicktype.io) | JSON to Class generator
+  - Rive (Animation creator for Flutter):
+      - [Website](https://rive.app/)
+      - [Youtube Channel](https://www.youtube.com/channel/UCPal2R1FxwRTPylhP_7ofEg/videos)
+  - [Widget Studio](http://widget.studio) | App template creator w/ code output <br><br>
+- Packages:
+  - [BarCode Scanner](https://pub.dev/packages/barcode_scan)
+  - [BlurHash](https://pub.dev/packages/flutter_blurhash) | Creates a blurred version of an image, while the real one still loading
+  - [Connectivity](https://pub.dev/packages/connectivity) | Let you get info on which connection are you using and whenever you are connected or not
+  - [Crypto](https://pub.dev/packages/crypto) | Hashing functions package - (SHA and MD5)
+  - [Device Info](https://pub.dev/packages/device_info)
+  - [Floating Search Bar](https://pub.dev/packages/floating_search_bar)
+  - [Flutter SVG](https://pub.dev/packages/flutter_svg) | Let you use SVGs assets
+  - [FlutterDev official packages](https://github.com/flutter/plugins/tree/master/packages) | Camera, gyroscope, etc.
+  - [Geolocator](https://pub.dev/packages/geolocator)
+  - [Google Sign-in](https://pub.dev/packages/google_sign_in)
+  - [Http](https://pub.dev/packages/http) | HTTP requests package
+  - [Image Picker](https://pub.dev/packages/image_picker)
+  - [InView Notifier](https://pub.dev/packages/inview_notifier_list) | Notifies during scroll what element you are looking at
+  - [OAuth2](https://pub.dev/packages/oauth2)
+  - [Permission Handler](https://pub.dev/packages/permission_handler) | Let you check what phone permissions got granted to your app
+  - [Share](https://pub.dev/packages/share)
+  - [Smooth Page Indicator](https://pub.dev/packages/smooth_page_indicator) | Page indicator for PageView w/ nice animation
+  - [Video Player](https://pub.dev/packages/video_player)
+  - [WebView](https://pub.dev/packages/webview_flutter)<br><br>
+- Lessons
+  - [Fluttery Code Challenges Videos](https://drive.google.com/folderview?id=1iB5JfKIILYcmksB8ryJJe8Jv8H_gz7sY) | A Google Drive folder because they got removed from Youtube<br><br>
+- Machine Learning:
+  - [tflite](https://pub.dev/packages/tflite) | Flutter package to use trained models
+  - [Teachable Machines](https://teachablemachine.withgoogle.com/train/) | Google site to create trained models
