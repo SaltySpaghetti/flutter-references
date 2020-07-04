@@ -6,7 +6,7 @@ class CustomCard extends StatelessWidget {
       elevation: 8.0,
       margin: EdgeInsets.symmetric(horizontal: 10.0, vertical: 6.0),
       child: Container(
-        decoration: BoxDecoration(color: Color.fromRGBO(16, 10, 6, .9)),
+        decoration: BoxDecoration(color: Color(0xE6100a06)),
         child: ListTile(
           contentPadding: EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
           leading: Container(
