@@ -3,7 +3,6 @@
 - Sites / Repos:
   - [Add clear button in text input](https://www.flutterclutter.dev/flutter/tutorials/text-field-with-clear-button/2020/104/)
   - [Async/Await guide](https://ptyagicodecamp.github.io/futures-asynchronous-programming-with-dart.html)
-  - [Beginner Guide](https://blog.solutelabs.com/flutter-tutorial-for-developers-step-by-step-guide-to-building-apps-28a70040edb9) by [Karan Shah](https://github.com/karanshah89)
   - [Cut a hole in your layout](https://www.flutterclutter.dev/flutter/tutorials/how-to-cut-a-hole-in-an-overlay/2020/510/) | Useful to show app functionalities on first use
   - [FlutterIcon](http://fluttericon.com) | Custom icons generator
   - [Format date like social network](https://www.flutterclutter.dev/flutter/tutorials/date-format-dynamic-string-depending-on-how-long-ago/2020/229/) | Format date like "Few minutes ago", "Yesterday", etc.
@@ -39,6 +38,7 @@
   - [Video Player](https://pub.dev/packages/video_player)
   - [WebView](https://pub.dev/packages/webview_flutter)<br><br>
 - Lessons
+  - [Beginner Guide](https://blog.solutelabs.com/flutter-tutorial-for-developers-step-by-step-guide-to-building-apps-28a70040edb9) by [Karan Shah](https://github.com/karanshah89)
   - [Fluttery Code Challenges Videos](https://drive.google.com/folderview?id=1iB5JfKIILYcmksB8ryJJe8Jv8H_gz7sY) | A Google Drive folder because they got removed from Youtube<br><br>
 - Machine Learning:
   - [tflite](https://pub.dev/packages/tflite) | Flutter package to use trained models
