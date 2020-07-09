@@ -6,6 +6,7 @@
   - [Add clear button in text input](https://www.flutterclutter.dev/flutter/tutorials/text-field-with-clear-button/2020/104/)
   - [Async/Await guide](https://ptyagicodecamp.github.io/futures-asynchronous-programming-with-dart.html)
   - [Cut a hole in your layout](https://www.flutterclutter.dev/flutter/tutorials/how-to-cut-a-hole-in-an-overlay/2020/510/) | Useful to show app functionalities on first use
+  - [Deep dive into DatePicker usage](https://medium.com/flutter-community/a-deep-dive-into-datepicker-in-flutter-37e84f7d8d6c)
   - [FlutterIcon](http://fluttericon.com) | Custom icons generator
   - [Format date like social network](https://www.flutterclutter.dev/flutter/tutorials/date-format-dynamic-string-depending-on-how-long-ago/2020/229/) | Format date like "Few minutes ago", "Yesterday", etc.
   - [Free web gradients](https://outlane.co/now/freebie-web-gradients/) 
