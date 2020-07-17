@@ -27,6 +27,7 @@
   - [Connectivity](https://pub.dev/packages/connectivity) | Let you get info on which connection are you using and whenever you are connected or not
   - [Crypto](https://pub.dev/packages/crypto) | Hashing functions package - (SHA and MD5)
   - [Device Info](https://pub.dev/packages/device_info)
+  - [Equatable](https://pub.dev/packages/equatable) | Let you check if two istances of a class are equal
   - [Floating Search Bar](https://pub.dev/packages/floating_search_bar)
   - [Flutter SVG](https://pub.dev/packages/flutter_svg) | Let you use SVGs assets
   - [FlutterDev official packages](https://github.com/flutter/plugins/tree/master/packages) | Camera, gyroscope, etc.
