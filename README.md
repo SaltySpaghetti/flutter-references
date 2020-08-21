@@ -4,7 +4,7 @@
 
 - Sites / Repos / Tutorials:
   - [Add clear button in text input](https://www.flutterclutter.dev/flutter/tutorials/text-field-with-clear-button/2020/104/)
-  - [Add an element at the end of a Grid view](https://stackoverflow.com/a/47026673/8745788)
+  - [Add an element at the end of a GridView](https://stackoverflow.com/a/47026673/8745788)
   - [Async/Await guide](https://ptyagicodecamp.github.io/futures-asynchronous-programming-with-dart.html)
   - [Cut a hole in your layout](https://www.flutterclutter.dev/flutter/tutorials/how-to-cut-a-hole-in-an-overlay/2020/510/) | Useful to show app functionalities on first use
   - [Deep dive into DatePicker usage](https://medium.com/flutter-community/a-deep-dive-into-datepicker-in-flutter-37e84f7d8d6c) by [Pinkesh Darji](https://github.com/pinkeshdarji)
