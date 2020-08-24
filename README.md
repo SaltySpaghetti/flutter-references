@@ -12,7 +12,7 @@
   - [FlutterIcon](http://fluttericon.com) | Custom icons generator
   - [Format date like social network](https://www.flutterclutter.dev/flutter/tutorials/date-format-dynamic-string-depending-on-how-long-ago/2020/229/) | Format date like "Few minutes ago", "Yesterday", etc.
   - [Free web gradients](https://outlane.co/now/freebie-web-gradients/) 
-  - [into.dev](https://iiro.dev/) | Useful articles and tutorial for Dart and Flutter
+  - [iiro.dev](https://iiro.dev/) | Useful articles and tutorial for Dart and Flutter
   - [Latest Flutter Days guides](https://events.withgoogle.com/flutter-day/codelabs/#content)
   - [mkiisoft CodePen profile](https://codepen.io/mkiisoft) | Nicely built projects to learn from
   - [Platform detection example](https://www.flutterclutter.dev/flutter/tutorials/how-to-detect-what-platform-a-flutter-app-is-running-on/2020/127)
